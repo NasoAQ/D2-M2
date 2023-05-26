@@ -26,6 +26,8 @@ let naso = {
     hobby: "sport",
 }
 
+console.log(naso)
+
 /* crea due variabili name1(john) e name2(John) e verifica la diversità*/
 
 

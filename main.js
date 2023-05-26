@@ -40,5 +40,5 @@ console.log("NAME1 è DIVERSO DA NAME2?" ,name1 !== name2)
 
 /* verifica che l'uguaglianza di name1 e name2 diventi true in lowercase*/
 
-console.log("NAME1 è UGUALE A NAME2 IN LOWERCASE?" ,name1.toLowerCase === name2.toLowerCase)
+console.log("NAME1 è UGUALE A NAME2 IN LOWERCASE?" ,name1.toLowerCase() === name2.toLowerCase())
 

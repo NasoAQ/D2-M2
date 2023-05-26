@@ -16,7 +16,7 @@ var name = `Gabriele`
 
 let result = 4 - x;
 
-console.log("RISULTATO SOTTRAZIONE:" ,risultato)
+console.log("RISULTATO SOTTRAZIONE:" ,result)
 
 /* crea un oggetto che ti rappresenti */
 
